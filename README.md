@@ -1,10 +1,10 @@
 # ESP32-4.0inch_4848S040
 
-![WechatIMG5859]（./images/WechatIMG5859.jpg）
+# ![WechatIMG5859]（./images/WechatIMG5859.jpg）
 
 ![ESP32-4.0inch_4848S040](./images/ESP32-4.0inch_4848S040.jpg)
 
-online GUI design tool
+Online GUI design tool
 https://www.guition.com/main/ 
 
 There's a video that might help.
