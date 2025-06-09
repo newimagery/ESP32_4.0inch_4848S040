@@ -1,6 +1,7 @@
 # ESP32-4.0inch_4848S040
 
-mounted （./images/WechatIMG5859.jpg）
+![WechatIMG5859]（./images/WechatIMG5859.jpg）
+
 ![ESP32-4.0inch_4848S040](./images/ESP32-4.0inch_4848S040.jpg)
 
 online GUI design tool
