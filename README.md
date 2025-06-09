@@ -1,6 +1,6 @@
-# ESP32-4.0inch_4848S040
+# ESP32-S3-4.0inch_4848S040
 
-# ![WechatIMG5859]（./images/WechatIMG5859.jpg）
+
 
 ![ESP32-4.0inch_4848S040](./images/ESP32-4.0inch_4848S040.jpg)
 
